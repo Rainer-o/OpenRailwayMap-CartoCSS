@@ -225,8 +225,8 @@ Format details:
     }
 
     ::text {
-      text-name: [ref];
-      text-dy: 14;
+      text-name: [railway:signal:stop:caption];
+      text-dy: 12;
       text-fill: @signal-text-fill;
       text-halo-fill: @signal-text-halo-fill;
       text-face-name: @bold-fonts;
